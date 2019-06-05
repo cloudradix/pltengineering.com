@@ -1,0 +1,24 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+
+  {{- partial "meta-data/micro-data.html" . -}}
+
+  {{- partial "meta-data/twitter-meta-data.html" . -}}
+  
+  {{- partial "meta-data/og-meta-data.html" . -}}
+
+  <script async="" src="https://cdn.ampproject.org/v0.js" async></script>
+
+  <link rel="shortcut icon" href="favicon.png">
+
+  {{- partial "amp-boilerplate.html" . -}}
+
+  {{- partial "amp-scripts.html" . -}}  
+
+  {{- partial "amp-css-base-page.html" . -}}
+
+</head>

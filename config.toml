@@ -1,0 +1,49 @@
+baseURL = "https://project-7498139985589509590.web.app/"
+languageCode = "en-us"
+title = "Plant Engineering Services"
+
+theme = "ampradix"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 4 
+# googleAnalytics = "123"
+enableRobotsTXT = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "press-service"
+    name = "Press Services"
+    url = "/press-service/"
+    weight = -110
+
+  [[menu.main]]
+    name = "contact"
+    url = "/contact/"
+    weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "favicon.ico"
+  logo = "logo.jpg"
+  logo_width = "200"
+  logo_height = "50"
+  description = "Plant Engineering Services provides a full line of hydraulic press repair and relocation."
+  twitter = "xxx"
+  facebook = ""
+  facebookAppId = "xxx"
+  instagram = ""
+
+#  featured_image = "/homepage-slider-image-01.jpg"
+
+#  Example section & items for homepage 
+#  recent_articles_number = 2
+#  recent_case-studies_number = 2
+#  recent_client-reviews_number = 2
+#  recent_projects_number = 2
