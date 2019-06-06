@@ -45,6 +45,5 @@ Every project or service we offer comes complete with professional project manag
 
 We are a full service product design firm specializing in the design of plastic products. Our engineers can work either with the molder or the products end user to develop a complete product concept. Multiple component products can include bonding and hardware specifications as well as prime or finish painting specifications. We can take your product from concept to a molded part as a turn key package. With the experience of our engineering staff we can insure manufacturability of the finished product.
 
-
 {{< cta >}}
 {{< share >}}
