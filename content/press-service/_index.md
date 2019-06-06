@@ -9,6 +9,7 @@ featured_image_height: '200'
 structured_image1: ''
 structured_image2: ''
 structured_image3: ''
+structured_image4: ''
 ---
 
 ## List of our services

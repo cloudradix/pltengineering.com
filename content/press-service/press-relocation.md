@@ -1,14 +1,16 @@
 ---
 date: 2019-06-04T14:17:12-04:00
-title: "Press Relocation"
+title: "Press Relocation Projects"
 draft: false
 Description: "A full service engineering firm with the experience and qualifications necessary for your next relocation project..."
 featured_image: 'press-relocation-image-featured-image.jpg'
 featured_image_width: '350'
 featured_image_height: '200'
-structured_image1: ''
-structured_image2: ''
-structured_image3: ''
+structured_image1: 'https://pltengineering.com/press-relocation-image-01-1920x1080.jpg'
+structured_image2: 'https://pltengineering.com/press-relocation-image-02-1920x1080.jpg'
+structured_image3: 'https://pltengineering.com/press-relocation-image-04-1920x1080.jpg'
+structured_image4: 'https://pltengineering.com/press-relocation-image-05-1920x1080.jpg'
+structured_image5: 'https://pltengineering.com/press-relocation-image-03-1920x1080.jpg'
 ---
 
 ## Press relocation
@@ -18,6 +20,9 @@ structured_image3: ''
 ### Turn-key equipment relocation
 
 Large or complex relocation projects often require skills and experience that go beyond the typical experience of engineering departments.  Even when the skills are available, is it the best allocation of resources given the engineering workload of day to day responsibilities.   Our engineering and project management resources can work with your facility to understand the needs and goals of the relocation project and apply our experience and expertise to make sure your project is on time and successful.
+
+
+{{< amp-carousel 1024 768 "press-relocation-image-01-1920x1080.jpg" "press-relocation-image-02-1920x1080.jpg" "press-relocation-image-04-1920x1080.jpg" "press-relocation-image-05-1920x1080.jpg" "press-relocation-image-03-1920x1080.jpg" >}}
 
 Often relocation projects require a variety of contractors to complete the overall relocation project.  This can lead to scheduling and project scope issues that can lead to projects that exceed the planned budget and timing.  Our turn-key programs provide a single source point of contact, we manage the complete process from beginning to end with regular timeline updates and regularly scheduled status meetings to keep everyone up to date on project details.  In areas where the facility and our contractors must interface, special care is given to insure everyone knows the schedule and which group is responsible in order to minimize the impact on daily production operations.
 

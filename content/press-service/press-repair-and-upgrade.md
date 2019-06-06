@@ -1,14 +1,16 @@
 ---
 date: 2019-06-05T14:16:30-04:00
-title: "Repair & Upgrade"
+title: "Press Repair & Upgrade"
 draft: false
 Description: "A full service engineering firm with the experience and expertise to repair or upgrade your press properly and timely..."
 featured_image: 'press-repair-and-upgrade-image-featured-image.jpg'
 featured_image_width: '350'
 featured_image_height: '200'
-structured_image1: ''
-structured_image2: ''
-structured_image3: ''
+structured_image1: 'https://pltengineering.com/press-repair-and-upgrade-image-04-1024x768.jpg'
+structured_image2: 'https://pltengineering.com/press-repair-and-upgrade-image-03-1024x768.jpg'
+structured_image3: 'https://pltengineering.com/press-repair-and-upgrade-image-02-1024-768.jpg'
+structured_image4: 'https://pltengineering.com/press-repair-and-upgrade-image-01-1024x768.jpg'
+structured_image5: 'https://pltengineering.com/homepage-slider-image-20-1024x768.jpg'
 ---
 
 ## Press repair & upgrade
@@ -18,6 +20,8 @@ structured_image3: ''
 ### Hydraulic press repair
 
 We offer a full line of hydraulic press repair. From basic troubleshooting and calibration to major repairs like main ram cylinders and platen guiding systems, we are the very best at getting you back in production. with over 22 years in the business, our engineering and technical staff repair and calibrate all types of presses, regardless of age or original manufacturer.  We also supply sourcing services for hard to find replacement parts.  Having a problem with downtime or are looking to find a used press?  We offer a full line of press review and downtime reduction programs.
+
+{{< amp-carousel 1024 768 "press-repair-and-upgrade-image-04-1024x768.jpg" "press-repair-and-upgrade-image-02-1024-768.jpg" "press-repair-and-upgrade-image-01-1024x768.jpg" "homepage-slider-image-20-1024x768.jpg" "press-repair-and-upgrade-image-03-1024x768.jpg"  >}}
 
 ### Hydraulic and mechanical press upgrades and reconditioning 
 

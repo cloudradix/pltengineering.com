@@ -1,19 +1,23 @@
 ---
 date: 2019-06-03T14:17:37-04:00
-title: "Assess Performance"
-draft: true
+title: "Press performance assessments"
+draft: false
 Description: "Detailed look into your equipment & processes allowing for process development and improvement..."
 featured_image: 'press-performance-assessments-image-featured-image.png'
 featured_image_width: '350'
 featured_image_height: '200'
-structured_image1: ''
-structured_image2: ''
-structured_image3: ''
+structured_image1: 'https://pltengineering.com/press-performance-assessments-image-04-1024x768.png'
+structured_image2: 'https://pltengineering.com/press-performance-assessments-image-01-1024x768.png'
+structured_image3: 'https://pltengineering.com/press-performance-assessments-image-03-1024x768.png'
+structured_image4: 'https://pltengineering.com/press-performance-assessments-image-02-1024x768.png'
+structured_image5: 'https://pltengineering.com/press-repair-and-upgrade-image-03-1024x768.jpg'
 ---
 
 ## Press performance assessments
 
 > "*a detailed look into your equipment and processes allowing for process development and improvement on a scale never seen before*"
+
+{{< amp-carousel 1024 768 "press-performance-assessments-image-04-1024x768.png" "press-performance-assessments-image-01-1024x768.png" "press-performance-assessments-image-03-1024x768.png" "press-performance-assessments-image-02-1024x768.png" "press-repair-and-upgrade-image-03-1024x768.jpg" >}}
 
 ### Hydraulic press and process monitoring
 

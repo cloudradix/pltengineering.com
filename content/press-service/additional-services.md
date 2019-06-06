@@ -1,19 +1,23 @@
 ---
 date: 2019-06-02T15:04:38-04:00
-title: "Additional Services"
+title: "Additional Press Services"
 draft: false
 Description: "Design and build of custom presses, automated handling and secondary operations, assessments, mold and die..."
 featured_image: 'additional-services-image-featured-image.png'
 featured_image_width: '350'
 featured_image_height: '200'
-structured_image1: ''
-structured_image2: ''
-structured_image3: ''
+structured_image1: 'https://pltengineering.com/additional-services-image-05-1024x768.jpg'
+structured_image2: 'https://pltengineering.com/additional-services-image-02-1024x768.jpg'
+structured_image3: 'https://pltengineering.com/additional-services-image-03-1024x768.jpg'
+structured_image4: 'https://pltengineering.com/additional-services-image-01-1024x768.jpg'
+structured_image5: 'https://pltengineering.com/additional-services-image-04-1024x768.png'
 ---
 
 ### Design and build of custom presses
 
 We design and build new presses for specialty applications up to 500 tons.  By utilizing our repair and reconditioning experience from a variety of industries and applications, we are uniquely positioned to apply this experience to design and build new presses that are specifically targeted to your molding, forming or stamping applications.  We have designed and built presses in size from 12 – 350 tons for a variety of applications.  We also offer specification development for customers who wish to secure quotations from other press manufacturers.
+
+{{< amp-carousel 1024 768 "additional-services-image-05-1024x768.jpg" "additional-services-image-03-1024x768.jpg" "additional-services-image-02-1024x768.jpg" "additional-services-image-01-1024x768.jpg" "additional-services-image-04-1024x768.png" >}}
 
 ### Automated handling and secondary operations
 
