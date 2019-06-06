@@ -2,7 +2,7 @@
   <meta property="fb:app_id" content="{{ $.Site.Params.facebookAppId }}">
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:type" content="article">
-  <meta property="og:image" content="{{.Params.featured_image  | safeHTML }}">
+  <meta property="og:image" content="{{ .Params.featured_image  | safeHTML }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}">
   <meta property="og:site_name" content="{{ .Title }}">
