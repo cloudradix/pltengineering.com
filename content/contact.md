@@ -13,6 +13,10 @@ structured_image4: ''
 structured_image5: ''
 ---
 
+
+<amp-img class="" src="/homepage-slider-image-01.jpg" width="900" height="550" alt="Plant Engineering Services facility image in Fort Wayne, Indiana" title="Plant Engineering Services facility in Fort Wayne, Indiana" layout="responsive">
+</amp-img>
+
 <div class="flex flex-wrap pb4">
 	<div>
 	<h3 class="h4 col-12 mx4 pb3 pt3"><strong>Business Hours</strong></h3>
@@ -27,8 +31,8 @@ structured_image5: ''
 	</ul>
 </div>
 <div>
-<h3 class="h4 col-12 mx4 pb3 pt3"><strong>Business Phone</strong></h3>
-<a href="tel:2604821436" class="mt2 h4 col-10 mx4 pb3 pt3 ampstart-btn ampstart-btn-primary caps inline-block center">260.482.1436</a> 
+<h3 class="h4 col-12 mx4 pb3 pt3"><strong>Call or Message</strong></h3>
+<a href="tel:2604821436" class="mt2 h4 col-10 mx4 pb3 pt3 ampstart-btn ampstart-btn-primary caps inline-block center">260.482.1436</a> <a href="/contact/#contact-form" class="mt2 h4 col-10 mx4 pb3 pt3 ampstart-btn ampstart-btn-primary caps inline-block center">Contact Form</a> 
 </div>
 
 <div>
@@ -59,11 +63,6 @@ Plant Engineering Services, Inc.
 Mooresville, NC 28117  
 [Map link](https://www.google.com/maps/place/119+Poplar+Pointe+Dr,+Mooresville,+NC+28117/@35.6009,-80.851125,17z/data=!3m1!4b1!4m5!3m4!1s0x885155035f0ec6cd:0xe612af474c201383!8m2!3d35.6009!4d-80.8489363)  
 
-
- 
-
-
-
 <div class="h4 col-10 pb1 pt1">Share Page</div>
 <div class="ampstart-social-box col-10 pb1 pt1">
   <amp-social-share type="twitter" aria-label="Share this on Twitter"></amp-social-share>
@@ -71,3 +70,11 @@ Mooresville, NC 28117
   <amp-social-share type="pinterest" aria-label="Share this on pintrest"></amp-social-share>
 </div>
 
+<div id="contact-form">
+<amp-iframe width="900" height="1400"
+    sandbox="allow-scripts allow-same-origin allow-popups-to-escape-sandbox allow-forms"
+    layout="responsive"
+    frameborder="0"
+    src="https://docs.google.com/forms/d/e/1FAIpQLSc_pqzYSvBkZMAA68KElP8aVhQjcvviWk38aZ3b0LM9kSQqag/viewform?embedded=true">
+</amp-iframe>
+</div>
