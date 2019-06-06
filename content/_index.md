@@ -3,12 +3,14 @@ date: 2019-06-05T13:46:29-04:00
 title: "Plant Engineering Services"
 draft: false
 Description: ""
-featured_image: ''
-featured_image_width: ''
-featured_image_height: ''
-structured_image1: ''
-structured_image2: ''
-structured_image3: ''
+featured_image: 'homepage-slider-image-05.jpg'
+featured_image_width: '900'
+featured_image_height: '550'
+structured_image1: 'https://pltengineering.com/'
+structured_image2: 'https://pltengineering.com/'
+structured_image3: 'https://pltengineering.com/'
+structured_image4: 'https://pltengineering.com/'
+structured_image5: 'https://pltengineering.com/'
 
 ---
 
@@ -31,3 +33,8 @@ While any given year is made up of a combination of small and large projects, we
 
 We fully understand that often your professional success and growth are based on the ability of the supplier you select to bring projects in on time and on budget with good communication and follow through. Solving difficult breakdown or quality issues as well as successful equipment modernization and expansion projects help promote you and Plant Engineering at the same time.
 
+### Better Business Bureau Affiliate
+
+{{< imgcap-fixed "bbb.jpg" 225 85 "Better Business Bureau Official Badge Image" "Plant Engineering Services is a member of the Better Business Bureau"  >}}
+
+{{< imgcap "hard-at-work.jpg" 1316 640    "Plant Engineering Services engineers hard at work image" "Our Engineers hard at work | Plant Engineering Services" >}}
