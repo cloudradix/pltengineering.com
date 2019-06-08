@@ -1,12 +1,16 @@
 <!doctype html>
 <html ⚡="" lang="en">
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        <div id="content">
+{{- partial "head.html" . -}}
+
+<body>
+    {{- partial "header.html" . -}}
+    <div id="content">
         {{- block "main" . }}{{- end }}
-        </div>
-        {{- partial "footer.html" . -}}       
-        {{- partial "amp-analytics.html" . -}}
-    </body>
+    </div>
+    {{- partial "footer.html" . -}}
+    <!-- {{- partial "amp-analytics.html" . -}} -->
+    <amp-install-serviceworker src="../../sw.js" layout="nodisplay" data-iframe-src="../../install-service-worker.html">
+    </amp-install-serviceworker>
+</body>
+
 </html>

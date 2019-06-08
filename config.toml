@@ -10,6 +10,8 @@ SectionPagesMenu = "main"
 Paginate = 4 
 # googleAnalytics = "123"
 enableRobotsTXT = true
+DisqusShortname = "" 
+uglyURLs = false
 
 [menu]
 
@@ -18,6 +20,11 @@ enableRobotsTXT = true
     name = "Press Services"
     url = "/press-service/"
     weight = -110
+
+  [[menu.main]]
+    name = "About Us"
+    url = "/#about-us"
+    weight = -105
 
   [[menu.main]]
     name = "contact"
@@ -35,10 +42,16 @@ enableRobotsTXT = true
   logo_width = "200"
   logo_height = "50"
   description = "Plant Engineering Services provides a full line of hydraulic press repair and relocation."
-  twitter = "xxx"
+#  twitter = "xxx"
+
+[social]
+  twitter=""
   facebook = "projectbasedengineering"
-  facebookAppId = "xxx"
+  facebookAppId = ""
   instagram = ""
+
+[authors]
+  author="Ken.W.Button"
 
 #  featured_image = "/homepage-slider-image-01.jpg"
 

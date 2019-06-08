@@ -1,8 +1,23 @@
-  <!-- Twitter Card data -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@{{ $.Site.Params.twitter }}">
-  <meta name="twitter:creator" content="@{{ $.Site.Params.twitter }}">
-  <meta name="twitter:title" content="{{ .Title }}">
-  <meta name="twitter:description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}">
-  <meta name="twitter:image" content="{{ .Params.featured_image  | safeHTML }}">
-  <meta name="twitter:image:alt" content="{{ .Title }}">
+  {{- with $.Params.images -}}
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
+  {{ else -}}
+  {{- $images := $.Resources.ByType "image" -}}
+{{- $featured := $images.GetMatch "*feature*" -}}
+{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
+{{- with $featured -}}<meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image" content="{{ $featured.Permalink }}"/>
+  {{- else -}}
+  {{- with $.Site.Params.images -}}
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
+  {{ else -}}
+  <meta name="twitter:card" content="summary"/>{{- end -}}{{- end -}}{{- end }}<meta name="twitter:title" content="{{ .Title }}"/>
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+  {{ with .Site.Social.twitter -}}
+  <meta name="twitter:site" content="@{{ . }}"/>{{ end -}}
+  {{ range .Site.Authors }}
+  {{ with .twitter -}}
+  <meta name="twitter:creator" content="@{{ . }}"/>
+  {{ end -}}
+  {{ end -}}

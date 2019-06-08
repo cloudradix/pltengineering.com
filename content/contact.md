@@ -1,5 +1,5 @@
 ---
-date: 2019-06-01T15:25:10-04:00
+date: 2019-05-01T15:25:10-04:00
 title: "Contact Plant Engineering Services"
 draft: false
 Description: "Contact Plant Engineering Services for any and all of your Plant / Manufaturing Facility Press needs; build custom, rebuild or relocate."
@@ -11,6 +11,7 @@ structured_image2: ''
 structured_image3: ''
 structured_image4: ''
 structured_image5: ''
+images: ['/plant-engineering-services-team.jpg', '/homepage-slider-image-01.jpg', 'mooresville-nc-facility-1024x768.jpg', '/homepage-slider-image-02.jpg', '/homepage-slider-image-03.jpg', '/homepage-slider-image-04.jpg', '/homepage-slider-image-05.jpg', '/homepage-slider-image-06.jpg', '/homepage-slider-image-07.jpg']
 ---
 
 {{< imgcap "plant-engineering-services-team.jpg" 960 720 "Image of Plant Engineering Services team at a tradeshow" "Plant Engineering Services team at a tradeshow" >}}

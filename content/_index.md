@@ -1,17 +1,17 @@
 ---
-date: 2019-06-05T13:46:29-04:00
+date: 2019-05-05T13:46:29-04:00
 title: "Plant Engineering Services"
 draft: false
-Description: ""
+Description: "Engineering Based Press Repair, Reconditioning, Modernization and Relocation Services "
 featured_image: 'homepage-slider-image-05.jpg'
 featured_image_width: '900'
 featured_image_height: '550'
-structured_image1: 'https://pltengineering.com/'
-structured_image2: 'https://pltengineering.com/'
-structured_image3: 'https://pltengineering.com/'
-structured_image4: 'https://pltengineering.com/'
-structured_image5: 'https://pltengineering.com/'
-
+structured_image1: '/homepage-slider-image-01.jpg'
+structured_image2: '/homepage-slider-image-02.jpg'
+structured_image3: '/homepage-slider-image-03.jpg'
+structured_image4: '/homepage-slider-image-04.jpg'
+structured_image5: '/homepage-slider-image-05.jpg'
+images: ['/homepage-slider-image-01.jpg', '/homepage-slider-image-02.jpg', '/homepage-slider-image-03.jpg', '/homepage-slider-image-04.jpg', '/homepage-slider-image-05.jpg', '/homepage-slider-image-06.jpg', '/homepage-slider-image-07.jpg', '/homepage-slider-image-08.jpg']
 ---
 
 

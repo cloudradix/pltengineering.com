@@ -1,16 +1,17 @@
 ---
-date: 2019-06-02T15:04:38-04:00
-title: "Additional Press Services"
+date: 2019-05-02T15:04:38-04:00
+title: "PES Additional Services"
 draft: false
 Description: "Design and build of custom presses, automated handling and secondary operations, assessments, mold and die..."
 featured_image: 'additional-services-image-featured-image.png'
 featured_image_width: '350'
 featured_image_height: '200'
-structured_image1: 'https://pltengineering.com/additional-services-image-05-1024x768.jpg'
-structured_image2: 'https://pltengineering.com/additional-services-image-02-1024x768.jpg'
-structured_image3: 'https://pltengineering.com/additional-services-image-03-1024x768.jpg'
-structured_image4: 'https://pltengineering.com/additional-services-image-01-1024x768.jpg'
-structured_image5: 'https://pltengineering.com/additional-services-image-04-1024x768.png'
+structured_image1: '/additional-services-image-05-1024x768.jpg'
+structured_image2: '/additional-services-image-02-1024x768.jpg'
+structured_image3: '/additional-services-image-03-1024x768.jpg'
+structured_image4: '/additional-services-image-01-1024x768.jpg'
+structured_image5: '/additional-services-image-04-1024x768.png'
+images: ['/additional-services-image-05-1024x768.jpg', '/additional-services-image-02-1024x768.jpg', '/additional-services-image-03-1024x768.jpg', '/additional-services-image-01-1024x768.jpg', '/additional-services-image-04-1024x768.png']
 ---
 
 ### Design and build of custom presses

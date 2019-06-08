@@ -1,16 +1,17 @@
 ---
-date: 2019-06-03T14:17:37-04:00
-title: "Press performance assessments"
+date: 2019-05-03T14:17:37-04:00
+title: "Press Performance Assessments"
 draft: false
 Description: "Detailed look into your equipment & processes allowing for process development and improvement..."
 featured_image: 'press-performance-assessments-image-featured-image.png'
 featured_image_width: '350'
 featured_image_height: '200'
-structured_image1: 'https://pltengineering.com/press-performance-assessments-image-04-1024x768.png'
-structured_image2: 'https://pltengineering.com/press-performance-assessments-image-01-1024x768.png'
-structured_image3: 'https://pltengineering.com/press-performance-assessments-image-03-1024x768.png'
-structured_image4: 'https://pltengineering.com/press-performance-assessments-image-02-1024x768.png'
-structured_image5: 'https://pltengineering.com/press-repair-and-upgrade-image-03-1024x768.jpg'
+structured_image1: '/press-performance-assessments-image-04-1024x768.png'
+structured_image2: '/press-performance-assessments-image-01-1024x768.png'
+structured_image3: '/press-performance-assessments-image-03-1024x768.png'
+structured_image4: '/press-performance-assessments-image-02-1024x768.png'
+structured_image5: '/press-repair-and-upgrade-image-03-1024x768.jpg'
+images: ['/press-performance-assessments-image-04-1024x768.png', '/press-performance-assessments-image-01-1024x768.png', '/press-performance-assessments-image-03-1024x768.png', '/press-performance-assessments-image-02-1024x768.png', '/press-repair-and-upgrade-image-03-1024x768.jpg']
 ---
 
 ## Press performance assessments

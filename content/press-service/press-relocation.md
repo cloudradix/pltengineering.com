@@ -1,16 +1,17 @@
 ---
-date: 2019-06-04T14:17:12-04:00
+date: 2019-05-04T14:17:12-04:00
 title: "Press Relocation Projects"
 draft: false
 Description: "A full service engineering firm with the experience and qualifications necessary for your next relocation project..."
 featured_image: 'press-relocation-image-featured-image.jpg'
 featured_image_width: '350'
 featured_image_height: '200'
-structured_image1: 'https://pltengineering.com/press-relocation-image-01-1920x1080.jpg'
-structured_image2: 'https://pltengineering.com/press-relocation-image-02-1920x1080.jpg'
-structured_image3: 'https://pltengineering.com/press-relocation-image-04-1920x1080.jpg'
-structured_image4: 'https://pltengineering.com/press-relocation-image-05-1920x1080.jpg'
-structured_image5: 'https://pltengineering.com/press-relocation-image-03-1920x1080.jpg'
+structured_image1: '/press-relocation-image-01-1920x1080.jpg'
+structured_image2: '/press-relocation-image-02-1920x1080.jpg'
+structured_image3: '/press-relocation-image-04-1920x1080.jpg'
+structured_image4: '/press-relocation-image-05-1920x1080.jpg'
+structured_image5: '/press-relocation-image-03-1920x1080.jpg'
+images: ['/press-relocation-image-01-1920x1080.jpg', '/press-relocation-image-02-1920x1080.jpg', '/press-relocation-image-04-1920x1080.jpg', '/press-relocation-image-05-1920x1080.jpg', '/press-relocation-image-03-1920x1080.jpg']
 ---
 
 ## Press relocation
