@@ -14,19 +14,13 @@ structured_image5: ''
 images: ['/plant-engineering-services-team.jpg', '/homepage-slider-image-01.jpg', 'mooresville-nc-facility-1024x768.jpg', '/homepage-slider-image-02.jpg', '/homepage-slider-image-03.jpg', '/homepage-slider-image-04.jpg', '/homepage-slider-image-05.jpg', '/homepage-slider-image-06.jpg', '/homepage-slider-image-07.jpg']
 ---
 
-{{< imgcap "plant-engineering-services-team.jpg" 960 720 "Image of Plant Engineering Services team at a tradeshow" "Plant Engineering Services team at a tradeshow" >}}
+<!-- {{< imgcap "plant-engineering-services-team.jpg" 960 720 "Image of Plant Engineering Services team at a tradeshow" "Plant Engineering Services team at a tradeshow" >}} -->
 
 <div class="flex flex-wrap pb4">
 	<div>
 	<h3 class="h4 col-12 mx4 pb3 pt3"><strong>Business Hours</strong></h3>
 	<ul>
-		<li>Mon: 8:00AM - 5:00PM</li>
-		<li>Tues: 8:00AM - 5:00PM</li>
-		<li>Wed: 8:00AM - 5:00PM</li>
-		<li>Thurs: 8:00AM - 5:00PM</li>
-		<li>Fri: 8:00AM - 5:00PM</li>
-		<li>Sat: Closed</li>
-		<li>Sun: Closed</li>
+		<li>Mon-Fri: 8:00AM - 5:00PM</li>
 	</ul>
 </div>
 <div>
@@ -38,7 +32,7 @@ images: ['/plant-engineering-services-team.jpg', '/homepage-slider-image-01.jpg'
 <h3 class="h4 col-12 mx4 pb3 pt3"><strong>Contact President</strong></h3>
 <ul class="list-reset  col-12 mx4 pb3 ">
 	<li>Mark Bohler, President</li>
-	<li>E-Mail: mbohler@pltengineering.com </li>
+	<li>E-Mail: mbohler@planteng.com </li>
 	<li>Mobile: 260-433-3290  </li>
 </ul>
 </div>

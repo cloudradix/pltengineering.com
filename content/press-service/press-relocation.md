@@ -14,11 +14,11 @@ structured_image5: '/press-relocation-image-03-1920x1080.jpg'
 images: ['/press-relocation-image-01-1920x1080.jpg', '/press-relocation-image-02-1920x1080.jpg', '/press-relocation-image-04-1920x1080.jpg', '/press-relocation-image-05-1920x1080.jpg', '/press-relocation-image-03-1920x1080.jpg']
 ---
 
-## Press relocation
+## **Press Relocation**
 
 > A full service engineering firm with the experience and qualifications necessary for your next relocation project.
 
-### Turn-key equipment relocation
+### Turn-Key Equipment Relocation
 
 Large or complex relocation projects often require skills and experience that go beyond the typical experience of engineering departments.  Even when the skills are available, is it the best allocation of resources given the engineering workload of day to day responsibilities.   Our engineering and project management resources can work with your facility to understand the needs and goals of the relocation project and apply our experience and expertise to make sure your project is on time and successful.
 
@@ -31,7 +31,7 @@ From a technical perspective, often the disconnect, move and reconnection activi
 
 Our site supervisors and managers insure daily activities are completed in a safe, on-time, and effective manner.
 
-#### Typical project steps include:
+#### Typical Project Steps Include:
 
 - Develop project scope and timeline
 - Establish project budget 
@@ -47,7 +47,7 @@ Our site supervisors and managers insure daily activities are completed in a saf
 - Update system documentation as required
  
 
-#### Additional steps often required and provided include:
+#### Additional Steps Often Required and Provided Include:
 
 - Updated or expanded plant utilities
 - Plant ventilation systems
@@ -58,7 +58,7 @@ Our site supervisors and managers insure daily activities are completed in a saf
 - Area lighting 
 - Overhead cranes
 
-### Press relocation or installation - our specific specialty
+### Press Relocation or Installation - Our Specific Specialty
 
 We offer a full line of press relocation services that can be custom tailored to fit your needs. From complete turn-key relocation to just a project management role, we can make sure your press relocation, installation and startup go smooth. We also offer a full line of related services such as press pit design and construction, press pit cover design to insure the pit cover can withstand the load of molds, dies, as well as handling equipment. Our utility evaluation services help you confirm that your existing utilities can handle the extra load of another press or we can design the utility system for a new manufacturing operation. Because of our experience in relocating presses on a regular basis, we can help keep the project on time and within budget.
 

@@ -10,7 +10,7 @@
   </url>
   
   <url>
-    <loc>https://plant-engineering.web.app/press-service/press-repair-and-upgrade/</loc>
+    <loc>https://plant-engineering.web.app/press-service/press-repair-and-upgrades/</loc>
     <lastmod>2019-05-05T14:16:30-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -53,13 +53,11 @@
   
   <url>
     <loc>https://plant-engineering.web.app/categories/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plant-engineering.web.app/tags/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
