@@ -20,13 +20,14 @@ images: ['/press-repair-and-upgrade-image-04-1024x768.jpg', '/press-repair-and-u
 
 ### Hydraulic Press Repair
 
-We offer a full line of hydraulic press repair. From basic troubleshooting and calibration to major repairs like main ram cylinders and platen guiding systems, we are the very best at getting you back in production. with over 22 years in the business, our engineering and technical staff repair and calibrate all types of presses, regardless of age or original manufacturer.  We also supply sourcing services for hard to find replacement parts.  Having a problem with downtime or are looking to find a used press?  We offer a full line of press review and downtime reduction programs.
+We offer a full line of hydraulic press repair. From basic troubleshooting and calibration to major repairs like main ram cylinders and platen guiding systems, we are the very best at getting you back in production. With over 22 years in the business, our engineering and technical staff repair, upgrade and calibrate all types of presses, regardless of age or original manufacturer. We also supply sourcing services for hard to find replacement parts. Having a problem with downtime or are looking to find a replacement press? We also offer a full line of press review and downtime reduction programs.
+
 
 {{< amp-carousel 1024 768 "press-repair-and-upgrade-image-04-1024x768.jpg" "press-repair-and-upgrade-image-02-1024-768.jpg" "press-repair-and-upgrade-image-01-1024x768.jpg" "homepage-slider-image-20-1024x768.jpg" "press-repair-and-upgrade-image-03-1024x768.jpg"  >}}
 
 ### Hydraulic and Mechanical Press Upgrades and Reconditioning 
 
-Our engineering and technical staff have over 100 years experience upgrading and rebuilding all types of hydraulic and mechanical presses.  We have upgraded presses as small as 50 tons to the largest hydraulic control systems at over 6000 tons. Our true strength is our skill is the design new systems that often work better that the original press system through the use of modern technology.  This coupled with our years of steel and plastic forming and injection experience, allows us to develop processes in an innovative and creative way.  We often develop a press control systems that provide a new industry standard and give our clients a competitive edge in their particular industry.  
+Our engineering and technical staff have over 100 years’ experience upgrading and rebuilding all types of hydraulic and mechanical presses. We have upgraded presses as small as 13tons to the largest hydraulic control systems of over 20,000 tons. Our true strength is our skill is the design new systems that often work better that the original press system through the use of modern technology. This coupled with our years of steel and plastic forming and injection experience, allows us to develop processes in an innovative and creative way. We often develop a press control systems that provide a new industry standard and give our clients a competitive edge in their particular industry.
 
 ### Experience, Diversification and Partnerships
 

@@ -16,7 +16,7 @@ images: ['/press-performance-assessments-image-04-1024x768.png', '/press-perform
 
 ## **Press Performance Assessments**
 
-> "*a detailed look into your equipment and processes allowing for process development and improvement on a scale never seen before*"
+> "*A detailed look into your equipment and processes allowing for process development and improvement on a scale never seen before*"
 
 {{< amp-carousel 1024 768 "press-performance-assessments-image-04-1024x768.png" "press-performance-assessments-image-01-1024x768.png" "press-performance-assessments-image-03-1024x768.png" "press-performance-assessments-image-02-1024x768.png" "press-repair-and-upgrade-image-03-1024x768.jpg" >}}
 
@@ -34,7 +34,7 @@ PES offers our monitoring services to our clients on a pay per hour service. Thi
 
 ### Graphical and Digital Representation of Press Cycle Data
 
-The system begins taking data when the mold is a few inches away from the fully closed position with a data acquisition of over 10,000 times per second, everything is captured. As the press completes the molding cycle and opens, the complete cycle graph is generated showing cycle information. the intuitive graphical user interface allows the user to zoom in on key areas of the cycle to identify problem areas. A reference line through all system input channels provides real position and pressure information throughout the cycle. The information can then be exported as a .JPG picture for insertion into presentations or corrective action reports (zoomed picture -right).
+The system begins taking data when the mold is a few inches away from the fully closed position with a data acquisition of over 10,000 times per second, everything is captured. As the press completes the molding cycle and opens, the complete cycle graph is generated showing cycle information. The intuitive graphical user interface allows the user to zoom in on key areas of the cycle to identify problem areas. A reference line through all system input channels provides real position and pressure information throughout the cycle. The information can then be exported as a .JPG picture for insertion into presentations or corrective action reports (zoomed picture -right).
 
 ### Custom PM-4 Hydraulic Press Monitoring Systems for Sale
 

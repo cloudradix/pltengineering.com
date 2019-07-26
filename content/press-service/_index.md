@@ -16,9 +16,10 @@ images: ['/plant-engineering-services-team.jpg', '/homepage-slider-image-11.jpg'
 ## **List of Our Services**
 
 - Electrical, hydraulic and mechanical upgrades
-- Turnkey plant relocation projects
+- Turn-key plant relocation projects
 - Repair and replacement of large press components
-- Cylinder recondition and replacement
+- Turn-key cylinder recondition and replacement
+- Turn-key hydraulic rebuilding and replacement 
 - Emergency repair and calibration services
 - Advance hydraulic servo controls
 - Automation and robotic systems
