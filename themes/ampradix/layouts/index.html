@@ -13,7 +13,7 @@
             <div class="flex-container">
                 {{ range .Paginator.Pages }}
                 <a href="{{ .URL }}" class="text-decoration-none block">
-                    <div class="card mx1 my1">
+                    <div class="card mx1 my1" >
                         <amp-img class="" src="{{ .Params.featured_image  | safeHTML }}" width="{{ .Params.featured_image_width }}" height="{{ .Params.featured_image_height }}" alt="{{ .Title }} Image" title="{{ .Title }}"></amp-img>
                         <div class="card-container">
                             <h3 class="m3 caps ampstart-title-sm"><strong>{{ .Title }}</strong></h3>
@@ -29,10 +29,15 @@
         About Us
     </h2> -->
     <div class="home-black mxn2 mb0"></div>
-    <article class="myn1 col-12">
-        <section class=" pb4">
-            <div class="pb2 mt0 col-12">
-                <amp-carousel id="carousel-with-lightbox" width="900" height="550" autoplay delay="3000" class="mxn2  " layout="responsive" type="slides" lightbox>
+
+    <article>
+            <h2 class="h3 www-heading pb3 mb2 pt3 relative " id="about-us">
+        <strong>About Us</strong>
+    </h2>
+        <section class="flex">
+            <aside class="col-2 xs-hide"></aside>
+
+            <div class="lg-col-10 my2"><amp-carousel id="carousel-with-lightbox" width="900" height="550" autoplay delay="3000" class="mxn2  " layout="responsive" type="slides" lightbox>
                     <amp-img src="/homepage-slider-image-01.jpg" width="900" height="550" layout="responsive" alt="Press services image"></amp-img>
                     <amp-img src="/homepage-slider-image-02.jpg" width="900" height="550" layout="responsive" alt="Press services image"></amp-img>
                     <amp-img src="/homepage-slider-image-03.jpg" width="900" height="550" layout="responsive" alt="Press services image"></amp-img>
@@ -64,17 +69,7 @@
                     <amp-img src="/homepage-slider-image-29.jpg" width="900" height="550" layout="responsive" alt="Press services image"></amp-img>
                     <amp-img src="/homepage-slider-image-30.jpg" width="900" height="550" layout="responsive" alt="Press services image"></amp-img>
                     <amp-img src="/homepage-slider-image-31.jpg" width="900" height="550" layout="responsive" alt="Press services image"></amp-img>
-                </amp-carousel>
-            </div>
-        </section>
-    </article>
-    <article>
-            <h2 class="h3 www-heading pb3 mb2 relative " id="about-us">
-        <strong>About Us</strong>
-    </h2>
-        <section class="flex">
-            <aside class="col-2 xs-hide"></aside>
-            <div class="lg-col-10 my2">{{ .Content | replaceRE "<p>" "<p class=\"my2 \">" | safeHTML }}</div>
+                </amp-carousel>{{ .Content | replaceRE "<p>" "<p class=\"my2 \">" | safeHTML }}</div>
             <aside class="col-2 xs-hide"></aside>
         </section>
     </article>
