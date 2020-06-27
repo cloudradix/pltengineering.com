@@ -18,7 +18,9 @@ images: ['/press-performance-assessments-image-04-1024x768.png', '/press-perform
 
 > "*A detailed look into your equipment and processes allowing for process development and improvement on a scale never seen before*"
 
-{{< amp-carousel 1024 768 "press-performance-assessments-image-04-1024x768.png" "press-performance-assessments-image-01-1024x768.png" "press-performance-assessments-image-03-1024x768.png" "press-performance-assessments-image-02-1024x768.png" "press-repair-and-upgrade-image-03-1024x768.jpg" >}}
+{{< amp-carousel3 1024 768 "press-performance-assessments-image-04-1024x768.png" 
+"IMG_9916.JPG" 
+"measurement-of-manifolds.jpeg" >}}
 
 ### Hydraulic Press and Process Monitoring
 

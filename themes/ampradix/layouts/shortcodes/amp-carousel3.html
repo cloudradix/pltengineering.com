@@ -1,0 +1,28 @@
+<h3 class="h4 col-10 pl2 pb3 pt3">Click slideshow to enlarge</h3>
+
+<div class="pt1 pb2  col-12">
+  <amp-carousel id="carousel-with-lightbox"
+    width="{{ index .Params 0 }}"
+    height="{{ index .Params 1 }}"
+    autoplay
+    delay="3000"
+    layout="responsive"
+    type="slides"
+    lightbox>
+    <amp-img src="/{{ index .Params 2 }}"
+      width="{{ index .Params 0 }}"
+      height="{{ index .Params 1 }}"
+      layout="responsive"
+      alt="Press services image"></amp-img>
+    <amp-img src="/{{ index .Params 3 }}"
+      width="{{ index .Params 0 }}"
+      height="{{ index .Params 1 }}"
+      layout="responsive"
+      alt="Press services image"></amp-img>
+    <amp-img src="/{{ index .Params 4 }}"
+      width="{{ index .Params 0 }}"
+      height="{{ index .Params 1 }}"
+      layout="responsive"
+      alt="Press services image"></amp-img>
+  </amp-carousel>
+</div>
